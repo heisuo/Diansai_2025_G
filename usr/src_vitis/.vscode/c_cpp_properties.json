@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/yian/project/FPGA/diansai/backup/p1_2025_G/vitis/platform0/export/platform0/sw/standalone_ps7_cortexa9_0/include",
+                "/home/yian/project/FPGA/diansai/backup/p1_2025_G/vitis/FFT_test/src/src_vitis",
+                "/home/yian/project/FPGA/diansai/backup/p1_2025_G/vitis/FFT_test/src/src_vitis/bsp",
+                "/home/yian/project/FPGA/diansai/backup/p1_2025_G/vitis/FFT_test/src/src_vitis/include",
+                "/home/yian/Ne10/fftw-3.3.10/build/include"
+            ],
+            "intelliSenseMode": "linux-gcc-x64",
+            "compilerPath": "/usr/local/bin/gcc",
+            "cStandard": "c17",
+            "cppStandard": "gnu++14"
+        }
+    ],
+    "version": 4
+}
