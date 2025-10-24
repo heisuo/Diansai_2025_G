@@ -43,6 +43,11 @@ vivado版本为2024.2，vitis为新版IDE
 ├── fir_dec_40.96e6_500e3_1138.4e3.coe
 ├── fir_lpf_102.4e6_1e6_19.48e6.coe
 ├── ip_repo
+│   ├── ADDA_jilin
+│   ├── DDS
+│   ├── FFT_learn
+│   ├── ila_div_trigger
+│   ├── ps_axi_ctrl_new
 ├── prj
 ├── script
 ├── usr
@@ -59,6 +64,11 @@ vivado版本为2024.2，vitis为新版IDE
 + makefile：统一管理script文件夹中的tcl脚本和python脚本，实现参数化配置
 + fir_coe文件：fir滤波器的配置文件
 + ip_repo：IP文件夹
+  + ADDA_jilin：ADDA驱动
+  + DDS：DDS IP
+  + FFT_learn：核心IP，包含学习扫频、频域滤波等核心代码
+  + ila_div_trigger：调试IP，里面包含了vio，配合ila高级功能可以降低ila的采样速度
+  + ps_axi_ctrl_new：控制IP，实现对pl所有模块的控制和小数据量交互
 + prj：vivado工程文件夹(一开始没有，需要运行make set命令建立工程)
 + script：脚本文件夹
 + usr/bd：blockdesign工程导出文件
