@@ -5,7 +5,7 @@
     "cell_name": "FFT_Filter/ram_zoom",
     "component_reference": "xilinx.com:ip:blk_mem_gen:8.4",
     "ip_revision": "9",
-    "gen_directory": "../../../../backup/p1_2025_G/prj/zynq_base.tmp/FFT_learn_v1_0_project/FFT_learn_v1_0_project.gen/sources_1/ip/ram_zoom",
+    "gen_directory": "../../../../prj/zynq_base.tmp/FFT_learn_v1_0_project/FFT_learn_v1_0_project.gen/sources_1/ip/ram_zoom",
     "parameters": {
       "component_parameters": {
         "Component_Name": [ { "value": "ram_zoom", "resolve_type": "user", "usage": "all" } ],
@@ -175,7 +175,7 @@
         "IPCONTEXT": [ { "value": "IP_Flow" } ],
         "IPREVISION": [ { "value": "9" } ],
         "MANAGED": [ { "value": "TRUE" } ],
-        "OUTPUTDIR": [ { "value": "../../../../backup/p1_2025_G/prj/zynq_base.tmp/FFT_learn_v1_0_project/FFT_learn_v1_0_project.gen/sources_1/ip/ram_zoom" } ],
+        "OUTPUTDIR": [ { "value": "../../../../prj/zynq_base.tmp/FFT_learn_v1_0_project/FFT_learn_v1_0_project.gen/sources_1/ip/ram_zoom" } ],
         "SELECTEDSIMMODEL": [ { "value": "" } ],
         "SHAREDDIR": [ { "value": "." } ],
         "SWVERSION": [ { "value": "2024.2" } ],

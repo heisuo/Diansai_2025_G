@@ -1,4 +1,0 @@
-domain_path: /home/yian/project/FPGA/diansai/backup/p1_2025_G_fx/vitis/platform0/zynq_fsbl/zynq_fsbl_bsp
-app_src_dir: /tools/Xilinx/Vitis/2024.2/data/embeddedsw/lib/sw_apps/zynq_fsbl
-template: zynq_fsbl
-lang: c

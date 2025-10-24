@@ -1,3 +1,0 @@
-/home/yian/project/FPGA/diansai/backup/p1_2025_G_fx/vitis/platform0/zynq_fsbl/build/CMakeFiles/fsbl.elf.dir
-/home/yian/project/FPGA/diansai/backup/p1_2025_G_fx/vitis/platform0/zynq_fsbl/build/CMakeFiles/edit_cache.dir
-/home/yian/project/FPGA/diansai/backup/p1_2025_G_fx/vitis/platform0/zynq_fsbl/build/CMakeFiles/rebuild_cache.dir

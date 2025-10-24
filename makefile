@@ -151,7 +151,7 @@ lmp:
 gui: 
 	@echo "打开GUI..."
 	$(vivado) $(BASE_DIR)/prj/*.xpr -mode gui
-	
+
 
 # 辅助命令：清理生成文件（可选）
 .PHONY: clean
