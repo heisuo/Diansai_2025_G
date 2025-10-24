@@ -67,8 +67,8 @@ vivado版本为2024.2，vitis为新版IDE
   + ADDA_jilin：ADDA驱动
   + DDS：DDS IP
   + FFT_learn：核心IP，包含学习扫频、频域滤波等核心代码
-  + ila_div_trigger：调试IP，里面包含了vio，配合ila高级功能可以降低ila的采样速度
-  + ps_axi_ctrl_new：控制IP，实现对pl所有模块的控制和小数据量交互
+  + ila_div_trigger：调试IP，里面包含了vio IP，配合ila高级功能可以调整ila的采样速度
+  + ps_axi_ctrl_new：控制IP，实现对pl所有模块的控制和小数据量读写
 + prj：vivado工程文件夹(一开始没有，需要运行make set命令建立工程)
 + script：脚本文件夹
 + usr/bd：blockdesign工程导出文件
